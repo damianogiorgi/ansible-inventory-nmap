@@ -1,5 +1,5 @@
 ply==3.11
 pyasn1==0.4.7
-pycryptodomex==3.9.1
+pycryptodomex==3.19.1
 pysmi==0.3.4
 subprocess32==3.5.4
